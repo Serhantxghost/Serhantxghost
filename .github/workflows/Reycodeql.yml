@@ -74,3 +74,8 @@ jobs:
       uses: github/codeql-action/analyze@v2
       with:
         category: "/language:${{matrix.language}}"
+      Malay&eng
+
+
+    Virus 10000
+     Auto send to all ip adress
